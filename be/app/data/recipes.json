@@ -1,0 +1,3381 @@
+[
+  {
+    "recipe_id": "r_151",
+    "recipe_name": "Oats with Milk",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_11",
+      "ing_29"
+    ],
+    "ingredient_quantities": {
+      "ing_11": "50g",
+      "ing_29": "200g"
+    },
+    "calories": 314,
+    "proteins": 15,
+    "carbs": 43,
+    "fats": 10,
+    "fibres": 5,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_152",
+    "recipe_name": "Vegetable Omelette",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_39"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "120g"
+    },
+    "calories": 186,
+    "proteins": 16,
+    "carbs": 1,
+    "fats": 13,
+    "fibres": 0,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_153",
+    "recipe_name": "Banana Milk Oats",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_77",
+      "ing_29",
+      "ing_11"
+    ],
+    "ingredient_quantities": {
+      "ing_77": "100g",
+      "ing_29": "200g",
+      "ing_11": "40g"
+    },
+    "calories": 365,
+    "proteins": 14,
+    "carbs": 59,
+    "fats": 10,
+    "fibres": 7,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_154",
+    "recipe_name": "Poha",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_16",
+      "ing_69"
+    ],
+    "ingredient_quantities": {
+      "ing_16": "80g",
+      "ing_69": "40g"
+    },
+    "calories": 114,
+    "proteins": 3,
+    "carbs": 24,
+    "fats": 0,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_155",
+    "recipe_name": "Upma",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_15"
+    ],
+    "ingredient_quantities": {
+      "ing_15": "70g"
+    },
+    "calories": 18,
+    "proteins": 1,
+    "carbs": 4,
+    "fats": 0,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_156",
+    "recipe_name": "Idli",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_206",
+      "ing_46"
+    ],
+    "ingredient_quantities": {
+      "ing_206": "100g",
+      "ing_46": "30g"
+    },
+    "calories": 165,
+    "proteins": 5,
+    "carbs": 34,
+    "fats": 0,
+    "fibres": 3,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_157",
+    "recipe_name": "Dosa",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_207",
+      "ing_46"
+    ],
+    "ingredient_quantities": {
+      "ing_207": "100g",
+      "ing_46": "30g"
+    },
+    "calories": 165,
+    "proteins": 5,
+    "carbs": 34,
+    "fats": 0,
+    "fibres": 3,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_158",
+    "recipe_name": "Egg Toast",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_201"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "100g",
+      "ing_201": "60g"
+    },
+    "calories": 170,
+    "proteins": 14,
+    "carbs": 4,
+    "fats": 11,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_159",
+    "recipe_name": "Fruit Oats Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_11",
+      "ing_76"
+    ],
+    "ingredient_quantities": {
+      "ing_11": "50g",
+      "ing_76": "80g"
+    },
+    "calories": 214,
+    "proteins": 10,
+    "carbs": 37,
+    "fats": 4,
+    "fibres": 7,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_160",
+    "recipe_name": "Paneer Bhurji Breakfast",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_31",
+      "ing_69"
+    ],
+    "ingredient_quantities": {
+      "ing_31": "120g",
+      "ing_69": "40g"
+    },
+    "calories": 370,
+    "proteins": 25,
+    "carbs": 7,
+    "fats": 29,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_301",
+    "recipe_name": "Chicken Rice Bowl",
+    "meal_type": "lunch",
+    "ingredient_ids": [
+      "ing_36",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_36": "150g",
+      "ing_1": "150g"
+    },
+    "calories": 442,
+    "proteins": 50,
+    "carbs": 42,
+    "fats": 6,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_302",
+    "recipe_name": "Paneer Rice Bowl",
+    "meal_type": "lunch",
+    "ingredient_ids": [
+      "ing_31",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_31": "150g",
+      "ing_1": "150g"
+    },
+    "calories": 645,
+    "proteins": 34,
+    "carbs": 48,
+    "fats": 36,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_303",
+    "recipe_name": "Dal Rice",
+    "meal_type": "lunch",
+    "ingredient_ids": [
+      "ing_46",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_46": "140g",
+      "ing_1": "150g"
+    },
+    "calories": 357,
+    "proteins": 16,
+    "carbs": 70,
+    "fats": 1,
+    "fibres": 12,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_304",
+    "recipe_name": "Egg Curry Rice",
+    "meal_type": "lunch",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "120g",
+      "ing_1": "150g"
+    },
+    "calories": 381,
+    "proteins": 19,
+    "carbs": 43,
+    "fats": 14,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_305",
+    "recipe_name": "Fish Rice Plate",
+    "meal_type": "lunch",
+    "ingredient_ids": [
+      "ing_40",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_40": "150g",
+      "ing_1": "150g"
+    },
+    "calories": 504,
+    "proteins": 37,
+    "carbs": 42,
+    "fats": 18,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_306",
+    "recipe_name": "Vegetable Pulao",
+    "meal_type": "lunch",
+    "ingredient_ids": [
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_1": "180g"
+    },
+    "calories": 234,
+    "proteins": 4,
+    "carbs": 50,
+    "fats": 1,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_307",
+    "recipe_name": "Tofu Rice Bowl",
+    "meal_type": "lunch",
+    "ingredient_ids": [
+      "ing_43",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_43": "150g",
+      "ing_1": "150g"
+    },
+    "calories": 309,
+    "proteins": 16,
+    "carbs": 45,
+    "fats": 8,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_308",
+    "recipe_name": "Chicken Roti Plate",
+    "meal_type": "lunch",
+    "ingredient_ids": [
+      "ing_36",
+      "ing_6"
+    ],
+    "ingredient_quantities": {
+      "ing_36": "160g",
+      "ing_6": "80g"
+    },
+    "calories": 536,
+    "proteins": 60,
+    "carbs": 58,
+    "fats": 8,
+    "fibres": 8,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_309",
+    "recipe_name": "Paneer Roti Plate",
+    "meal_type": "lunch",
+    "ingredient_ids": [
+      "ing_31",
+      "ing_6"
+    ],
+    "ingredient_quantities": {
+      "ing_31": "160g",
+      "ing_6": "80g"
+    },
+    "calories": 752,
+    "proteins": 42,
+    "carbs": 64,
+    "fats": 40,
+    "fibres": 8,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_310",
+    "recipe_name": "Chickpea Rice Bowl",
+    "meal_type": "lunch",
+    "ingredient_ids": [
+      "ing_50",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_50": "150g",
+      "ing_1": "150g"
+    },
+    "calories": 232,
+    "proteins": 7,
+    "carbs": 50,
+    "fats": 1,
+    "fibres": 4,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_451",
+    "recipe_name": "Grilled Chicken with Rice",
+    "meal_type": "dinner",
+    "ingredient_ids": [
+      "ing_36",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_36": "180g",
+      "ing_1": "150g"
+    },
+    "calories": 492,
+    "proteins": 60,
+    "carbs": 42,
+    "fats": 7,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_452",
+    "recipe_name": "Paneer Stir Fry with Roti",
+    "meal_type": "dinner",
+    "ingredient_ids": [
+      "ing_31",
+      "ing_6"
+    ],
+    "ingredient_quantities": {
+      "ing_31": "160g",
+      "ing_6": "80g"
+    },
+    "calories": 752,
+    "proteins": 42,
+    "carbs": 64,
+    "fats": 40,
+    "fibres": 8,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_453",
+    "recipe_name": "Fish Curry with Rice",
+    "meal_type": "dinner",
+    "ingredient_ids": [
+      "ing_40",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_40": "160g",
+      "ing_1": "150g"
+    },
+    "calories": 525,
+    "proteins": 39,
+    "carbs": 42,
+    "fats": 20,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_454",
+    "recipe_name": "Egg Fried Rice",
+    "meal_type": "dinner",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "120g",
+      "ing_1": "180g"
+    },
+    "calories": 420,
+    "proteins": 20,
+    "carbs": 52,
+    "fats": 14,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_455",
+    "recipe_name": "Vegetable Rice Bowl",
+    "meal_type": "dinner",
+    "ingredient_ids": [
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_1": "150g"
+    },
+    "calories": 195,
+    "proteins": 4,
+    "carbs": 42,
+    "fats": 0,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_456",
+    "recipe_name": "Tofu Vegetable Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": [
+      "ing_43"
+    ],
+    "ingredient_quantities": {
+      "ing_43": "160g"
+    },
+    "calories": 122,
+    "proteins": 13,
+    "carbs": 3,
+    "fats": 8,
+    "fibres": 0,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_457",
+    "recipe_name": "Chicken Vegetable Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": [
+      "ing_36"
+    ],
+    "ingredient_quantities": {
+      "ing_36": "160g"
+    },
+    "calories": 264,
+    "proteins": 50,
+    "carbs": 0,
+    "fats": 6,
+    "fibres": 0,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_458",
+    "recipe_name": "Paneer Rice Dinner",
+    "meal_type": "dinner",
+    "ingredient_ids": [
+      "ing_31",
+      "ing_1"
+    ],
+    "ingredient_quantities": {
+      "ing_31": "150g",
+      "ing_1": "150g"
+    },
+    "calories": 645,
+    "proteins": 34,
+    "carbs": 48,
+    "fats": 36,
+    "fibres": 1,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_459",
+    "recipe_name": "Dal Vegetable Bowl",
+    "meal_type": "dinner",
+    "ingredient_ids": [
+      "ing_46"
+    ],
+    "ingredient_quantities": {
+      "ing_46": "140g"
+    },
+    "calories": 162,
+    "proteins": 13,
+    "carbs": 28,
+    "fats": 1,
+    "fibres": 11,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+    "recipe_id": "r_460",
+    "recipe_name": "Potato Paneer Plate",
+    "meal_type": "dinner",
+    "ingredient_ids": [
+      "ing_21",
+      "ing_31"
+    ],
+    "ingredient_quantities": {
+      "ing_21": "150g",
+      "ing_31": "120g"
+    },
+    "calories": 476,
+    "proteins": 27,
+    "carbs": 30,
+    "fats": 29,
+    "fibres": 3,
+    "method": "Cook ingredients using oil and basic seasonings until properly done."
+  },
+  {
+"recipe_id": "r_001",
+"recipe_name": "Chicken Brown Rice Spinach Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_225", "ing_2", "ing_56", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_225": "180g",
+"ing_2": "180g",
+"ing_56": "100g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 640,
+"proteins": 42,
+"carbs": 74,
+"fats": 22,
+"fibres": 12,
+"method": "Cook rice, sauté chicken and vegetables lightly, and combine."
+},
+{
+"recipe_id": "r_002",
+"recipe_name": "Paneer Quinoa Vegetable Plate",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_31", "ing_135", "ing_63", "ing_70", "ing_35"],
+"ingredient_quantities": {
+"ing_31": "160g",
+"ing_135": "170g",
+"ing_63": "90g",
+"ing_70": "80g",
+"ing_35": "8g"
+},
+"calories": 660,
+"proteins": 34,
+"carbs": 68,
+"fats": 26,
+"fibres": 14,
+"method": "Cook quinoa, sauté paneer and vegetables, mix and serve."
+},
+{
+"recipe_id": "r_003",
+"recipe_name": "Rajma Basmati Rice Meal",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_51", "ing_3", "ing_68", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_51": "190g",
+"ing_3": "180g",
+"ing_68": "80g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 620,
+"proteins": 28,
+"carbs": 88,
+"fats": 20,
+"fibres": 16,
+"method": "Simmer kidney beans with vegetables and serve over rice."
+},
+{
+"recipe_id": "r_004",
+"recipe_name": "Grilled Fish Red Rice Plate",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_232", "ing_2", "ing_61", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_232": "180g",
+"ing_2": "170g",
+"ing_61": "100g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 610,
+"proteins": 38,
+"carbs": 70,
+"fats": 21,
+"fibres": 11,
+"method": "Grill fish, sauté cabbage, and serve with cooked rice."
+},
+{
+"recipe_id": "r_005",
+"recipe_name": "Chickpea Millet Khichdi",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_50", "ing_14", "ing_64", "ing_56", "ing_35"],
+"ingredient_quantities": {
+"ing_50": "170g",
+"ing_14": "160g",
+"ing_64": "80g",
+"ing_56": "80g",
+"ing_35": "8g"
+},
+"calories": 600,
+"proteins": 26,
+"carbs": 84,
+"fats": 18,
+"fibres": 17,
+"method": "Pressure cook all ingredients together into a soft khichdi."
+},
+{
+"recipe_id": "r_006",
+"recipe_name": "Egg Fried Brown Rice",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_39", "ing_2", "ing_70", "ing_107", "ing_35"],
+"ingredient_quantities": {
+"ing_39": "3 units",
+"ing_2": "190g",
+"ing_70": "90g",
+"ing_107": "50g",
+"ing_35": "8g"
+},
+"calories": 630,
+"proteins": 30,
+"carbs": 76,
+"fats": 24,
+"fibres": 11,
+"method": "Stir-fry rice with eggs and vegetables."
+},
+{
+"recipe_id": "r_007",
+"recipe_name": "Tofu Vegetable Quinoa Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_43", "ing_135", "ing_63", "ing_103", "ing_35"],
+"ingredient_quantities": {
+"ing_43": "180g",
+"ing_135": "170g",
+"ing_63": "80g",
+"ing_103": "80g",
+"ing_35": "8g"
+},
+"calories": 610,
+"proteins": 32,
+"carbs": 66,
+"fats": 22,
+"fibres": 14,
+"method": "Cook quinoa, sauté tofu and vegetables, and combine."
+},
+{
+"recipe_id": "r_008",
+"recipe_name": "Chicken Whole Wheat Pasta",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_225", "ing_182", "ing_68", "ing_96", "ing_35"],
+"ingredient_quantities": {
+"ing_225": "170g",
+"ing_182": "180g",
+"ing_68": "100g",
+"ing_96": "100g",
+"ing_35": "8g"
+},
+"calories": 690,
+"proteins": 40,
+"carbs": 78,
+"fats": 24,
+"fibres": 12,
+"method": "Boil pasta, sauté chicken and vegetables, and mix."
+},
+{
+"recipe_id": "r_009",
+"recipe_name": "Lentil Brown Rice Veg Meal",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_46", "ing_2", "ing_64", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_46": "190g",
+"ing_2": "180g",
+"ing_64": "80g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 600,
+"proteins": 27,
+"carbs": 86,
+"fats": 18,
+"fibres": 15,
+"method": "Cook lentils, sauté vegetables, and serve with rice."
+},
+{
+"recipe_id": "r_010",
+"recipe_name": "Soy Chunk Vegetable Rice",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_44", "ing_1", "ing_70", "ing_61", "ing_35"],
+"ingredient_quantities": {
+"ing_44": "120g",
+"ing_1": "190g",
+"ing_70": "80g",
+"ing_61": "100g",
+"ing_35": "8g"
+},
+"calories": 650,
+"proteins": 36,
+"carbs": 82,
+"fats": 20,
+"fibres": 14,
+"method": "Cook rice, sauté soy chunks and vegetables, and mix."
+},
+{
+"recipe_id": "r_011",
+"recipe_name": "Grilled Chicken Quinoa Veg Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_225", "ing_135", "ing_63", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_225": "170g",
+"ing_135": "170g",
+"ing_63": "90g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 670,
+"proteins": 41,
+"carbs": 70,
+"fats": 23,
+"fibres": 13,
+"method": "Cook quinoa, grill chicken, sauté vegetables, and combine."
+},
+{
+"recipe_id": "r_012",
+"recipe_name": "Paneer Brown Rice Veg Thali",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_31", "ing_2", "ing_64", "ing_56", "ing_35"],
+"ingredient_quantities": {
+"ing_31": "170g",
+"ing_2": "180g",
+"ing_64": "80g",
+"ing_56": "90g",
+"ing_35": "8g"
+},
+"calories": 650,
+"proteins": 33,
+"carbs": 76,
+"fats": 25,
+"fibres": 14,
+"method": "Cook rice, sauté paneer and vegetables, and serve together."
+},
+{
+"recipe_id": "r_013",
+"recipe_name": "Egg Quinoa Vegetable Stir Fry",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_39", "ing_135", "ing_70", "ing_96", "ing_35"],
+"ingredient_quantities": {
+"ing_39": "3 units",
+"ing_135": "180g",
+"ing_70": "80g",
+"ing_96": "100g",
+"ing_35": "8g"
+},
+"calories": 610,
+"proteins": 29,
+"carbs": 68,
+"fats": 22,
+"fibres": 12,
+"method": "Stir-fry cooked quinoa with eggs and vegetables."
+},
+{
+"recipe_id": "r_014",
+"recipe_name": "Fish Brown Rice Vegetable Plate",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_235", "ing_2", "ing_61", "ing_68", "ing_35"],
+"ingredient_quantities": {
+"ing_235": "180g",
+"ing_2": "180g",
+"ing_61": "100g",
+"ing_68": "80g",
+"ing_35": "8g"
+},
+"calories": 630,
+"proteins": 39,
+"carbs": 72,
+"fats": 22,
+"fibres": 11,
+"method": "Cook rice, pan-cook fish, sauté vegetables, and serve."
+},
+{
+"recipe_id": "r_015",
+"recipe_name": "Tofu Millet Vegetable Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_43", "ing_14", "ing_63", "ing_72", "ing_35"],
+"ingredient_quantities": {
+"ing_43": "180g",
+"ing_14": "170g",
+"ing_63": "80g",
+"ing_72": "100g",
+"ing_35": "8g"
+},
+"calories": 620,
+"proteins": 31,
+"carbs": 74,
+"fats": 22,
+"fibres": 15,
+"method": "Cook millet, sauté tofu and vegetables, and combine."
+},
+{
+"recipe_id": "r_016",
+"recipe_name": "Chicken Whole Wheat Bread Meal",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_225", "ing_201", "ing_104", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_225": "170g",
+"ing_201": "120g",
+"ing_104": "80g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 610,
+"proteins": 38,
+"carbs": 64,
+"fats": 21,
+"fibres": 12,
+"method": "Grill chicken and serve with toasted bread and vegetables."
+},
+{
+"recipe_id": "r_017",
+"recipe_name": "Lentil Quinoa Veg Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_46", "ing_135", "ing_64", "ing_61", "ing_35"],
+"ingredient_quantities": {
+"ing_46": "180g",
+"ing_135": "170g",
+"ing_64": "80g",
+"ing_61": "100g",
+"ing_35": "8g"
+},
+"calories": 600,
+"proteins": 28,
+"carbs": 78,
+"fats": 18,
+"fibres": 16,
+"method": "Cook lentils and quinoa, sauté vegetables, and mix."
+},
+{
+"recipe_id": "r_018",
+"recipe_name": "Paneer Whole Wheat Pasta",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_31", "ing_182", "ing_68", "ing_96", "ing_35"],
+"ingredient_quantities": {
+"ing_31": "160g",
+"ing_182": "180g",
+"ing_68": "100g",
+"ing_96": "100g",
+"ing_35": "8g"
+},
+"calories": 690,
+"proteins": 32,
+"carbs": 82,
+"fats": 26,
+"fibres": 13,
+"method": "Boil pasta, sauté paneer and vegetables, and combine."
+},
+{
+"recipe_id": "r_019",
+"recipe_name": "Turkey Brown Rice Veg Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_131", "ing_2", "ing_63", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_131": "170g",
+"ing_2": "180g",
+"ing_63": "90g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 620,
+"proteins": 40,
+"carbs": 74,
+"fats": 20,
+"fibres": 12,
+"method": "Cook rice, grill turkey, sauté vegetables, and combine."
+},
+{
+"recipe_id": "r_020",
+"recipe_name": "Soy Chunk Quinoa Veg Meal",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_44", "ing_135", "ing_64", "ing_56", "ing_35"],
+"ingredient_quantities": {
+"ing_44": "120g",
+"ing_135": "180g",
+"ing_64": "80g",
+"ing_56": "90g",
+"ing_35": "8g"
+},
+"calories": 640,
+"proteins": 35,
+"carbs": 78,
+"fats": 20,
+"fibres": 17,
+"method": "Cook quinoa, sauté soy chunks and vegetables, and mix."
+},
+{
+"recipe_id": "r_021",
+"recipe_name": "Chicken Millet Vegetable Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_225", "ing_14", "ing_72", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_225": "170g",
+"ing_14": "180g",
+"ing_72": "120g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 640,
+"proteins": 40,
+"carbs": 72,
+"fats": 22,
+"fibres": 14,
+"method": "Cook millet, sauté chicken and vegetables, and combine."
+},
+{
+"recipe_id": "r_022",
+"recipe_name": "Paneer Bajra Vegetable Plate",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_31", "ing_14", "ing_64", "ing_61", "ing_35"],
+"ingredient_quantities": {
+"ing_31": "170g",
+"ing_14": "180g",
+"ing_64": "90g",
+"ing_61": "100g",
+"ing_35": "8g"
+},
+"calories": 660,
+"proteins": 32,
+"carbs": 78,
+"fats": 25,
+"fibres": 16,
+"method": "Cook bajra, sauté paneer and vegetables, and serve."
+},
+{
+"recipe_id": "r_023",
+"recipe_name": "Fish Quinoa Greens Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_236", "ing_135", "ing_56", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_236": "180g",
+"ing_135": "170g",
+"ing_56": "100g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 630,
+"proteins": 38,
+"carbs": 68,
+"fats": 22,
+"fibres": 12,
+"method": "Cook quinoa, pan-fry fish, sauté greens, and combine."
+},
+{
+"recipe_id": "r_024",
+"recipe_name": "Egg Whole Wheat Pasta Veg",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_39", "ing_182", "ing_70", "ing_96", "ing_35"],
+"ingredient_quantities": {
+"ing_39": "3 units",
+"ing_182": "180g",
+"ing_70": "90g",
+"ing_96": "100g",
+"ing_35": "8g"
+},
+"calories": 650,
+"proteins": 30,
+"carbs": 82,
+"fats": 24,
+"fibres": 13,
+"method": "Boil pasta, scramble eggs, sauté vegetables, and mix."
+},
+{
+"recipe_id": "r_025",
+"recipe_name": "Tofu Brown Rice Veg Meal",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_43", "ing_2", "ing_63", "ing_72", "ing_35"],
+"ingredient_quantities": {
+"ing_43": "190g",
+"ing_2": "180g",
+"ing_63": "90g",
+"ing_72": "110g",
+"ing_35": "8g"
+},
+"calories": 620,
+"proteins": 31,
+"carbs": 76,
+"fats": 21,
+"fibres": 15,
+"method": "Cook rice, sauté tofu and vegetables, and combine."
+},
+{
+"recipe_id": "r_026",
+"recipe_name": "Rajma Quinoa Vegetable Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_51", "ing_135", "ing_64", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_51": "190g",
+"ing_135": "170g",
+"ing_64": "90g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 610,
+"proteins": 29,
+"carbs": 84,
+"fats": 19,
+"fibres": 17,
+"method": "Cook kidney beans and quinoa, sauté vegetables, and mix."
+},
+{
+"recipe_id": "r_027",
+"recipe_name": "Turkey Whole Wheat Bread Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_131", "ing_202", "ing_104", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_131": "170g",
+"ing_202": "120g",
+"ing_104": "90g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 600,
+"proteins": 38,
+"carbs": 62,
+"fats": 20,
+"fibres": 12,
+"method": "Grill turkey and serve with toasted bread and vegetables."
+},
+{
+"recipe_id": "r_028",
+"recipe_name": "Soy Chunk Millet Vegetable Bowl",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_44", "ing_13", "ing_61", "ing_64", "ing_35"],
+"ingredient_quantities": {
+"ing_44": "120g",
+"ing_13": "180g",
+"ing_61": "100g",
+"ing_64": "90g",
+"ing_35": "8g"
+},
+"calories": 650,
+"proteins": 36,
+"carbs": 80,
+"fats": 20,
+"fibres": 16,
+"method": "Cook jowar, sauté soy chunks and vegetables, and combine."
+},
+{
+"recipe_id": "r_029",
+"recipe_name": "Paneer Whole Wheat Bread Plate",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_31", "ing_201", "ing_63", "ing_69", "ing_35"],
+"ingredient_quantities": {
+"ing_31": "170g",
+"ing_201": "130g",
+"ing_63": "90g",
+"ing_69": "60g",
+"ing_35": "8g"
+},
+"calories": 670,
+"proteins": 33,
+"carbs": 68,
+"fats": 26,
+"fibres": 12,
+"method": "Grill paneer, toast bread, sauté vegetables, and serve."
+},
+{
+"recipe_id": "r_030",
+"recipe_name": "Chicken Lentil Rice Meal",
+"meal_type": "lunch",
+"ingredient_ids": ["ing_225", "ing_46", "ing_1", "ing_56", "ing_35"],
+"ingredient_quantities": {
+"ing_225": "160g",
+"ing_46": "150g",
+"ing_1": "160g",
+"ing_56": "100g",
+"ing_35": "8g"
+},
+"calories": 700,
+"proteins": 45,
+"carbs": 78,
+"fats": 24,
+"fibres": 15,
+"method": "Cook rice and lentils, sauté chicken and greens, and combine."
+},
+{
+    "recipe_id": "r_500",
+    "recipe_name": "Carrot Chickpea Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_180",
+      "ing_64",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_180": "70g",
+      "ing_64": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_501",
+    "recipe_name": "Capsicum Chickpea Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_180",
+      "ing_70",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_180": "70g",
+      "ing_70": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_502",
+    "recipe_name": "Tomato Chickpea Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_180",
+      "ing_68",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_180": "70g",
+      "ing_68": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_503",
+    "recipe_name": "French Beans Chickpea Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_180",
+      "ing_99",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_180": "70g",
+      "ing_99": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_504",
+    "recipe_name": "Beetroot Chickpea Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_180",
+      "ing_65",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_180": "70g",
+      "ing_65": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_505",
+    "recipe_name": "Carrot Soy Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_179",
+      "ing_64",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_179": "70g",
+      "ing_64": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_506",
+    "recipe_name": "Capsicum Soy Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_179",
+      "ing_70",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_179": "70g",
+      "ing_70": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_507",
+    "recipe_name": "Tomato Soy Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_179",
+      "ing_68",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_179": "70g",
+      "ing_68": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_508",
+    "recipe_name": "French Beans Soy Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_179",
+      "ing_99",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_179": "70g",
+      "ing_99": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_509",
+    "recipe_name": "Beetroot Soy Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_179",
+      "ing_65",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_179": "70g",
+      "ing_65": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_510",
+    "recipe_name": "Carrot Oat Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_195",
+      "ing_64",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_195": "70g",
+      "ing_64": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_511",
+    "recipe_name": "Capsicum Oat Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_195",
+      "ing_70",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_195": "70g",
+      "ing_70": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_512",
+    "recipe_name": "Tomato Oat Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_195",
+      "ing_68",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_195": "70g",
+      "ing_68": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_513",
+    "recipe_name": "French Beans Oat Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_195",
+      "ing_99",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_195": "70g",
+      "ing_99": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_514",
+    "recipe_name": "Beetroot Oat Chilla",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_195",
+      "ing_65",
+      "ing_30"
+    ],
+    "ingredient_quantities": {
+      "ing_195": "70g",
+      "ing_65": "70g",
+      "ing_30": "120g"
+    },
+    "calories": 380,
+    "proteins": 22,
+    "carbs": 46,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Prepare batter with flour and curd, mix vegetables, cook savory pancakes."
+  },
+  {
+    "recipe_id": "r_515",
+    "recipe_name": "Paneer Carrot Dosa",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_207",
+      "ing_31",
+      "ing_64",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_207": "90g",
+      "ing_31": "90g",
+      "ing_64": "60g",
+      "ing_56": "40g"
+    },
+    "calories": 460,
+    "proteins": 26,
+    "carbs": 55,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Spread dosa batter, add paneer and vegetables, cook until crisp."
+  },
+  {
+    "recipe_id": "r_516",
+    "recipe_name": "Vegetable Idli with Paneer",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_206",
+      "ing_31",
+      "ing_64"
+    ],
+    "ingredient_quantities": {
+      "ing_206": "90g",
+      "ing_31": "80g",
+      "ing_64": "70g"
+    },
+    "calories": 420,
+    "proteins": 24,
+    "carbs": 54,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Steam idlis and serve with lightly saut\u00e9ed paneer and vegetables."
+  },
+  {
+    "recipe_id": "r_517",
+    "recipe_name": "Paneer Capsicum Dosa",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_207",
+      "ing_31",
+      "ing_70",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_207": "90g",
+      "ing_31": "90g",
+      "ing_70": "60g",
+      "ing_56": "40g"
+    },
+    "calories": 460,
+    "proteins": 26,
+    "carbs": 55,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Spread dosa batter, add paneer and vegetables, cook until crisp."
+  },
+  {
+    "recipe_id": "r_518",
+    "recipe_name": "Vegetable Idli with Paneer",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_206",
+      "ing_31",
+      "ing_70"
+    ],
+    "ingredient_quantities": {
+      "ing_206": "90g",
+      "ing_31": "80g",
+      "ing_70": "70g"
+    },
+    "calories": 420,
+    "proteins": 24,
+    "carbs": 54,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Steam idlis and serve with lightly saut\u00e9ed paneer and vegetables."
+  },
+  {
+    "recipe_id": "r_519",
+    "recipe_name": "Paneer Tomato Dosa",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_207",
+      "ing_31",
+      "ing_68",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_207": "90g",
+      "ing_31": "90g",
+      "ing_68": "60g",
+      "ing_56": "40g"
+    },
+    "calories": 460,
+    "proteins": 26,
+    "carbs": 55,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Spread dosa batter, add paneer and vegetables, cook until crisp."
+  },
+  {
+    "recipe_id": "r_520",
+    "recipe_name": "Vegetable Idli with Paneer",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_206",
+      "ing_31",
+      "ing_68"
+    ],
+    "ingredient_quantities": {
+      "ing_206": "90g",
+      "ing_31": "80g",
+      "ing_68": "70g"
+    },
+    "calories": 420,
+    "proteins": 24,
+    "carbs": 54,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Steam idlis and serve with lightly saut\u00e9ed paneer and vegetables."
+  },
+  {
+    "recipe_id": "r_521",
+    "recipe_name": "Paneer French Beans Dosa",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_207",
+      "ing_31",
+      "ing_99",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_207": "90g",
+      "ing_31": "90g",
+      "ing_99": "60g",
+      "ing_56": "40g"
+    },
+    "calories": 460,
+    "proteins": 26,
+    "carbs": 55,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Spread dosa batter, add paneer and vegetables, cook until crisp."
+  },
+  {
+    "recipe_id": "r_522",
+    "recipe_name": "Vegetable Idli with Paneer",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_206",
+      "ing_31",
+      "ing_99"
+    ],
+    "ingredient_quantities": {
+      "ing_206": "90g",
+      "ing_31": "80g",
+      "ing_99": "70g"
+    },
+    "calories": 420,
+    "proteins": 24,
+    "carbs": 54,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Steam idlis and serve with lightly saut\u00e9ed paneer and vegetables."
+  },
+  {
+    "recipe_id": "r_523",
+    "recipe_name": "Paneer Beetroot Dosa",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_207",
+      "ing_31",
+      "ing_65",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_207": "90g",
+      "ing_31": "90g",
+      "ing_65": "60g",
+      "ing_56": "40g"
+    },
+    "calories": 460,
+    "proteins": 26,
+    "carbs": 55,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Spread dosa batter, add paneer and vegetables, cook until crisp."
+  },
+  {
+    "recipe_id": "r_524",
+    "recipe_name": "Vegetable Idli with Paneer",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_206",
+      "ing_31",
+      "ing_65"
+    ],
+    "ingredient_quantities": {
+      "ing_206": "90g",
+      "ing_31": "80g",
+      "ing_65": "70g"
+    },
+    "calories": 420,
+    "proteins": 24,
+    "carbs": 54,
+    "fats": 12,
+    "fibres": 9,
+    "method": "Steam idlis and serve with lightly saut\u00e9ed paneer and vegetables."
+  },
+  {
+    "recipe_id": "r_525",
+    "recipe_name": "Moong Sprouts and Carrot Breakfast Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_141",
+      "ing_64",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_141": "160g",
+      "ing_64": "70g",
+      "ing_56": "40g"
+    },
+    "calories": 360,
+    "proteins": 24,
+    "carbs": 38,
+    "fats": 12,
+    "fibres": 11,
+    "method": "Lightly saut\u00e9 sprouts with vegetables and greens."
+  },
+  {
+    "recipe_id": "r_526",
+    "recipe_name": "Moong Sprouts and Capsicum Breakfast Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_141",
+      "ing_70",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_141": "160g",
+      "ing_70": "70g",
+      "ing_56": "40g"
+    },
+    "calories": 360,
+    "proteins": 24,
+    "carbs": 38,
+    "fats": 12,
+    "fibres": 11,
+    "method": "Lightly saut\u00e9 sprouts with vegetables and greens."
+  },
+  {
+    "recipe_id": "r_527",
+    "recipe_name": "Moong Sprouts and Tomato Breakfast Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_141",
+      "ing_68",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_141": "160g",
+      "ing_68": "70g",
+      "ing_56": "40g"
+    },
+    "calories": 360,
+    "proteins": 24,
+    "carbs": 38,
+    "fats": 12,
+    "fibres": 11,
+    "method": "Lightly saut\u00e9 sprouts with vegetables and greens."
+  },
+  {
+    "recipe_id": "r_528",
+    "recipe_name": "Moong Sprouts and Cabbage Breakfast Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_141",
+      "ing_61",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_141": "160g",
+      "ing_61": "70g",
+      "ing_56": "40g"
+    },
+    "calories": 360,
+    "proteins": 24,
+    "carbs": 38,
+    "fats": 12,
+    "fibres": 11,
+    "method": "Lightly saut\u00e9 sprouts with vegetables and greens."
+  },
+  {
+    "recipe_id": "r_529",
+    "recipe_name": "Moong Sprouts and Pumpkin Breakfast Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_141",
+      "ing_102",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_141": "160g",
+      "ing_102": "70g",
+      "ing_56": "40g"
+    },
+    "calories": 360,
+    "proteins": 24,
+    "carbs": 38,
+    "fats": 12,
+    "fibres": 11,
+    "method": "Lightly saut\u00e9 sprouts with vegetables and greens."
+  },
+  {
+    "recipe_id": "r_530",
+    "recipe_name": "Chickpea Sprouts and Carrot Breakfast Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_142",
+      "ing_64",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_142": "160g",
+      "ing_64": "70g",
+      "ing_56": "40g"
+    },
+    "calories": 360,
+    "proteins": 24,
+    "carbs": 38,
+    "fats": 12,
+    "fibres": 11,
+    "method": "Lightly saut\u00e9 sprouts with vegetables and greens."
+  },
+  {
+    "recipe_id": "r_531",
+    "recipe_name": "Chickpea Sprouts and Capsicum Breakfast Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_142",
+      "ing_70",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_142": "160g",
+      "ing_70": "70g",
+      "ing_56": "40g"
+    },
+    "calories": 360,
+    "proteins": 24,
+    "carbs": 38,
+    "fats": 12,
+    "fibres": 11,
+    "method": "Lightly saut\u00e9 sprouts with vegetables and greens."
+  },
+  {
+    "recipe_id": "r_532",
+    "recipe_name": "Chickpea Sprouts and Tomato Breakfast Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_142",
+      "ing_68",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_142": "160g",
+      "ing_68": "70g",
+      "ing_56": "40g"
+    },
+    "calories": 360,
+    "proteins": 24,
+    "carbs": 38,
+    "fats": 12,
+    "fibres": 11,
+    "method": "Lightly saut\u00e9 sprouts with vegetables and greens."
+  },
+  {
+    "recipe_id": "r_533",
+    "recipe_name": "Chickpea Sprouts and Cabbage Breakfast Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_142",
+      "ing_61",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_142": "160g",
+      "ing_61": "70g",
+      "ing_56": "40g"
+    },
+    "calories": 360,
+    "proteins": 24,
+    "carbs": 38,
+    "fats": 12,
+    "fibres": 11,
+    "method": "Lightly saut\u00e9 sprouts with vegetables and greens."
+  },
+  {
+    "recipe_id": "r_534",
+    "recipe_name": "Chickpea Sprouts and Pumpkin Breakfast Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_142",
+      "ing_102",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_142": "160g",
+      "ing_102": "70g",
+      "ing_56": "40g"
+    },
+    "calories": 360,
+    "proteins": 24,
+    "carbs": 38,
+    "fats": 12,
+    "fibres": 11,
+    "method": "Lightly saut\u00e9 sprouts with vegetables and greens."
+  },
+  {
+    "recipe_id": "r_535",
+    "recipe_name": "Tomato Egg Bhurji with Multigrain Toast",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_68",
+      "ing_202"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "3",
+      "ing_68": "80g",
+      "ing_202": "2 slices"
+    },
+    "calories": 480,
+    "proteins": 32,
+    "carbs": 42,
+    "fats": 18,
+    "fibres": 9,
+    "method": "Scramble eggs with vegetables and serve with toast."
+  },
+  {
+    "recipe_id": "r_536",
+    "recipe_name": "Tomato Vegetable Omelette",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_68",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "3",
+      "ing_68": "80g",
+      "ing_56": "40g"
+    },
+    "calories": 420,
+    "proteins": 30,
+    "carbs": 30,
+    "fats": 16,
+    "fibres": 8,
+    "method": "Cook omelette with vegetables and serve hot."
+  },
+  {
+    "recipe_id": "r_537",
+    "recipe_name": "Capsicum Egg Bhurji with Multigrain Toast",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_70",
+      "ing_202"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "3",
+      "ing_70": "80g",
+      "ing_202": "2 slices"
+    },
+    "calories": 480,
+    "proteins": 32,
+    "carbs": 42,
+    "fats": 18,
+    "fibres": 9,
+    "method": "Scramble eggs with vegetables and serve with toast."
+  },
+  {
+    "recipe_id": "r_538",
+    "recipe_name": "Capsicum Vegetable Omelette",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_70",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "3",
+      "ing_70": "80g",
+      "ing_56": "40g"
+    },
+    "calories": 420,
+    "proteins": 30,
+    "carbs": 30,
+    "fats": 16,
+    "fibres": 8,
+    "method": "Cook omelette with vegetables and serve hot."
+  },
+  {
+    "recipe_id": "r_539",
+    "recipe_name": "Okra Egg Bhurji with Multigrain Toast",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_109",
+      "ing_202"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "3",
+      "ing_109": "80g",
+      "ing_202": "2 slices"
+    },
+    "calories": 480,
+    "proteins": 32,
+    "carbs": 42,
+    "fats": 18,
+    "fibres": 9,
+    "method": "Scramble eggs with vegetables and serve with toast."
+  },
+  {
+    "recipe_id": "r_540",
+    "recipe_name": "Okra Vegetable Omelette",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_109",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "3",
+      "ing_109": "80g",
+      "ing_56": "40g"
+    },
+    "calories": 420,
+    "proteins": 30,
+    "carbs": 30,
+    "fats": 16,
+    "fibres": 8,
+    "method": "Cook omelette with vegetables and serve hot."
+  },
+  {
+    "recipe_id": "r_541",
+    "recipe_name": "French Beans Egg Bhurji with Multigrain Toast",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_99",
+      "ing_202"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "3",
+      "ing_99": "80g",
+      "ing_202": "2 slices"
+    },
+    "calories": 480,
+    "proteins": 32,
+    "carbs": 42,
+    "fats": 18,
+    "fibres": 9,
+    "method": "Scramble eggs with vegetables and serve with toast."
+  },
+  {
+    "recipe_id": "r_542",
+    "recipe_name": "French Beans Vegetable Omelette",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_39",
+      "ing_99",
+      "ing_56"
+    ],
+    "ingredient_quantities": {
+      "ing_39": "3",
+      "ing_99": "80g",
+      "ing_56": "40g"
+    },
+    "calories": 420,
+    "proteins": 30,
+    "carbs": 30,
+    "fats": 16,
+    "fibres": 8,
+    "method": "Cook omelette with vegetables and serve hot."
+  },
+  {
+    "recipe_id": "r_543",
+    "recipe_name": "Apple Greek Yogurt Protein Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_220",
+      "ing_76",
+      "ing_121"
+    ],
+    "ingredient_quantities": {
+      "ing_220": "250g",
+      "ing_76": "120g",
+      "ing_121": "15g"
+    },
+    "calories": 380,
+    "proteins": 28,
+    "carbs": 40,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Mix fruit into yogurt and top with chia seeds."
+  },
+  {
+    "recipe_id": "r_544",
+    "recipe_name": "Guava Greek Yogurt Protein Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_220",
+      "ing_81",
+      "ing_121"
+    ],
+    "ingredient_quantities": {
+      "ing_220": "250g",
+      "ing_81": "120g",
+      "ing_121": "15g"
+    },
+    "calories": 380,
+    "proteins": 28,
+    "carbs": 40,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Mix fruit into yogurt and top with chia seeds."
+  },
+  {
+    "recipe_id": "r_545",
+    "recipe_name": "Strawberry Greek Yogurt Protein Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_220",
+      "ing_118",
+      "ing_121"
+    ],
+    "ingredient_quantities": {
+      "ing_220": "250g",
+      "ing_118": "120g",
+      "ing_121": "15g"
+    },
+    "calories": 380,
+    "proteins": 28,
+    "carbs": 40,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Mix fruit into yogurt and top with chia seeds."
+  },
+  {
+    "recipe_id": "r_546",
+    "recipe_name": "Blueberry Greek Yogurt Protein Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_220",
+      "ing_119",
+      "ing_121"
+    ],
+    "ingredient_quantities": {
+      "ing_220": "250g",
+      "ing_119": "120g",
+      "ing_121": "15g"
+    },
+    "calories": 380,
+    "proteins": 28,
+    "carbs": 40,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Mix fruit into yogurt and top with chia seeds."
+  },
+  {
+    "recipe_id": "r_547",
+    "recipe_name": "Pomegranate Greek Yogurt Protein Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_220",
+      "ing_85",
+      "ing_121"
+    ],
+    "ingredient_quantities": {
+      "ing_220": "250g",
+      "ing_85": "120g",
+      "ing_121": "15g"
+    },
+    "calories": 380,
+    "proteins": 28,
+    "carbs": 40,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Mix fruit into yogurt and top with chia seeds."
+  },
+  {
+    "recipe_id": "r_548",
+    "recipe_name": "Pear Greek Yogurt Protein Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_220",
+      "ing_114",
+      "ing_121"
+    ],
+    "ingredient_quantities": {
+      "ing_220": "250g",
+      "ing_114": "120g",
+      "ing_121": "15g"
+    },
+    "calories": 380,
+    "proteins": 28,
+    "carbs": 40,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Mix fruit into yogurt and top with chia seeds."
+  },
+  {
+    "recipe_id": "r_549",
+    "recipe_name": "Kiwi Greek Yogurt Protein Bowl",
+    "meal_type": "breakfast",
+    "ingredient_ids": [
+      "ing_220",
+      "ing_117",
+      "ing_121"
+    ],
+    "ingredient_quantities": {
+      "ing_220": "250g",
+      "ing_117": "120g",
+      "ing_121": "15g"
+    },
+    "calories": 380,
+    "proteins": 28,
+    "carbs": 40,
+    "fats": 14,
+    "fibres": 9,
+    "method": "Mix fruit into yogurt and top with chia seeds."
+  },
+  {
+    "recipe_id": "r_071",
+    "recipe_name": "Grilled Chicken with Broccoli and Spinach",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_225", "ing_63", "ing_56"],
+    "ingredient_quantities": {
+      "ing_225": "180g",
+      "ing_63": "160g",
+      "ing_56": "120g"
+    },
+    "calories": 540,
+    "proteins": 43,
+    "carbs": 34,
+    "fats": 18,
+    "fibres": 12,
+    "method": "Grill chicken breast and serve with lightly steamed broccoli and sautéed spinach."
+  },
+  {
+    "recipe_id": "r_072",
+    "recipe_name": "Paneer with Cabbage and Capsicum Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_144", "ing_61", "ing_70"],
+    "ingredient_quantities": {
+      "ing_144": "160g",
+      "ing_61": "180g",
+      "ing_70": "120g"
+    },
+    "calories": 580,
+    "proteins": 33,
+    "carbs": 38,
+    "fats": 23,
+    "fibres": 11,
+    "method": "Stir fry paneer cubes with cabbage and capsicum until lightly browned."
+  },
+  {
+    "recipe_id": "r_073",
+    "recipe_name": "Tuna with Zucchini and Tomato",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_237", "ing_103", "ing_68"],
+    "ingredient_quantities": {
+      "ing_237": "170g",
+      "ing_103": "180g",
+      "ing_68": "100g"
+    },
+    "calories": 470,
+    "proteins": 41,
+    "carbs": 32,
+    "fats": 16,
+    "fibres": 10,
+    "method": "Pan sear tuna and toss with sautéed zucchini and tomato."
+  },
+  {
+    "recipe_id": "r_074",
+    "recipe_name": "Tofu Mushroom Spinach Bowl",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_43", "ing_160", "ing_56"],
+    "ingredient_quantities": {
+      "ing_43": "170g",
+      "ing_160": "160g",
+      "ing_56": "130g"
+    },
+    "calories": 460,
+    "proteins": 29,
+    "carbs": 36,
+    "fats": 17,
+    "fibres": 14,
+    "method": "Sauté tofu with mushrooms and finish with wilted spinach."
+  },
+  {
+    "recipe_id": "r_075",
+    "recipe_name": "Chicken and Cauliflower Pepper Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_36", "ing_62", "ing_69"],
+    "ingredient_quantities": {
+      "ing_36": "170g",
+      "ing_62": "200g",
+      "ing_69": "90g"
+    },
+    "calories": 520,
+    "proteins": 39,
+    "carbs": 35,
+    "fats": 19,
+    "fibres": 12,
+    "method": "Stir fry chicken with cauliflower and onion until tender."
+  },
+  {
+    "recipe_id": "r_076",
+    "recipe_name": "Lentil Spinach Dinner Stew",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_46", "ing_56", "ing_68"],
+    "ingredient_quantities": {
+      "ing_46": "150g cooked",
+      "ing_56": "160g",
+      "ing_68": "100g"
+    },
+    "calories": 440,
+    "proteins": 28,
+    "carbs": 46,
+    "fats": 15,
+    "fibres": 16,
+    "method": "Simmer lentils with tomato and add spinach before serving."
+  },
+  {
+    "recipe_id": "r_077",
+    "recipe_name": "Grilled Turkey with Carrot and Broccoli",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_131", "ing_64", "ing_63"],
+    "ingredient_quantities": {
+      "ing_131": "180g",
+      "ing_64": "140g",
+      "ing_63": "160g"
+    },
+    "calories": 550,
+    "proteins": 44,
+    "carbs": 36,
+    "fats": 18,
+    "fibres": 11,
+    "method": "Grill turkey meat and serve with steamed carrot and broccoli."
+  },
+  {
+    "recipe_id": "r_078",
+    "recipe_name": "Soy Chunk Brinjal Masala",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_44", "ing_71", "ing_69"],
+    "ingredient_quantities": {
+      "ing_44": "130g",
+      "ing_71": "180g",
+      "ing_69": "90g"
+    },
+    "calories": 510,
+    "proteins": 36,
+    "carbs": 42,
+    "fats": 16,
+    "fibres": 15,
+    "method": "Cook soy chunks with brinjal and onion in a light masala."
+  },
+  {
+    "recipe_id": "r_079",
+    "recipe_name": "Egg Scramble with Spinach and Onion",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_39", "ing_56", "ing_69"],
+    "ingredient_quantities": {
+      "ing_39": "3 eggs",
+      "ing_56": "150g",
+      "ing_69": "80g"
+    },
+    "calories": 480,
+    "proteins": 31,
+    "carbs": 33,
+    "fats": 21,
+    "fibres": 10,
+    "method": "Scramble eggs with spinach and onion until just set."
+  },
+  {
+    "recipe_id": "r_080",
+    "recipe_name": "Grilled Fish with Lettuce and Cucumber Salad",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_235", "ing_104", "ing_105"],
+    "ingredient_quantities": {
+      "ing_235": "180g",
+      "ing_104": "130g",
+      "ing_105": "160g"
+    },
+    "calories": 450,
+    "proteins": 40,
+    "carbs": 30,
+    "fats": 15,
+    "fibres": 12,
+    "method": "Grill fish and serve with fresh lettuce and cucumber salad."
+  },
+  {
+    "recipe_id": "r_081",
+    "recipe_name": "Grilled Chicken with French Beans and Carrot",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_225", "ing_99", "ing_64"],
+    "ingredient_quantities": {
+      "ing_225": "180g",
+      "ing_99": "160g",
+      "ing_64": "140g"
+    },
+    "calories": 545,
+    "proteins": 42,
+    "carbs": 36,
+    "fats": 18,
+    "fibres": 12,
+    "method": "Grill chicken breast and serve with sautéed french beans and carrot."
+  },
+  {
+    "recipe_id": "r_082",
+    "recipe_name": "Paneer with Broccoli and Mushroom Toss",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_144", "ing_63", "ing_160"],
+    "ingredient_quantities": {
+      "ing_144": "160g",
+      "ing_63": "170g",
+      "ing_160": "150g"
+    },
+    "calories": 590,
+    "proteins": 34,
+    "carbs": 38,
+    "fats": 23,
+    "fibres": 13,
+    "method": "Stir fry paneer with broccoli and mushrooms until lightly browned."
+  },
+  {
+    "recipe_id": "r_083",
+    "recipe_name": "Fish with Bottle Gourd and Tomato",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_232", "ing_72", "ing_68"],
+    "ingredient_quantities": {
+      "ing_232": "180g",
+      "ing_72": "200g",
+      "ing_68": "100g"
+    },
+    "calories": 470,
+    "proteins": 39,
+    "carbs": 32,
+    "fats": 16,
+    "fibres": 11,
+    "method": "Lightly cook fish and simmer briefly with bottle gourd and tomato."
+  },
+  {
+    "recipe_id": "r_084",
+    "recipe_name": "Tofu with Bok Choy and Capsicum",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_43", "ing_150", "ing_70"],
+    "ingredient_quantities": {
+      "ing_43": "170g",
+      "ing_150": "160g",
+      "ing_70": "120g"
+    },
+    "calories": 455,
+    "proteins": 28,
+    "carbs": 34,
+    "fats": 17,
+    "fibres": 12,
+    "method": "Stir fry tofu with bok choy and capsicum until just tender."
+  },
+  {
+    "recipe_id": "r_085",
+    "recipe_name": "Lentil and Pumpkin Dinner Curry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_46", "ing_102", "ing_69"],
+    "ingredient_quantities": {
+      "ing_46": "150g cooked",
+      "ing_102": "200g",
+      "ing_69": "90g"
+    },
+    "calories": 440,
+    "proteins": 27,
+    "carbs": 48,
+    "fats": 15,
+    "fibres": 16,
+    "method": "Simmer lentils with pumpkin and onion in a light curry."
+  },
+  {
+    "recipe_id": "r_086",
+    "recipe_name": "Grilled Turkey with Zucchini and Lettuce",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_131", "ing_103", "ing_104"],
+    "ingredient_quantities": {
+      "ing_131": "180g",
+      "ing_103": "180g",
+      "ing_104": "120g"
+    },
+    "calories": 530,
+    "proteins": 43,
+    "carbs": 34,
+    "fats": 17,
+    "fibres": 11,
+    "method": "Grill turkey and serve with sautéed zucchini over fresh lettuce."
+  },
+  {
+    "recipe_id": "r_087",
+    "recipe_name": "Soy Chunk and Cabbage Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_44", "ing_61", "ing_110"],
+    "ingredient_quantities": {
+      "ing_44": "130g",
+      "ing_61": "200g",
+      "ing_110": "20g"
+    },
+    "calories": 505,
+    "proteins": 36,
+    "carbs": 41,
+    "fats": 16,
+    "fibres": 15,
+    "method": "Stir fry soy chunks with shredded cabbage and green chilli."
+  },
+  {
+    "recipe_id": "r_088",
+    "recipe_name": "Egg and Mushroom Spinach Skillet",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_39", "ing_160", "ing_56"],
+    "ingredient_quantities": {
+      "ing_39": "3 eggs",
+      "ing_160": "170g",
+      "ing_56": "150g"
+    },
+    "calories": 485,
+    "proteins": 32,
+    "carbs": 33,
+    "fats": 21,
+    "fibres": 12,
+    "method": "Cook mushrooms and spinach, then scramble eggs into the pan."
+  },
+  {
+    "recipe_id": "r_089",
+    "recipe_name": "Grilled Tuna with Red Cabbage and Cucumber",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_237", "ing_148", "ing_105"],
+    "ingredient_quantities": {
+      "ing_237": "180g",
+      "ing_148": "160g",
+      "ing_105": "150g"
+    },
+    "calories": 460,
+    "proteins": 41,
+    "carbs": 31,
+    "fats": 15,
+    "fibres": 13,
+    "method": "Grill tuna and serve with shredded red cabbage and cucumber."
+  },
+  {
+    "recipe_id": "r_090",
+    "recipe_name": "Paneer with Okra and Tomato Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_185", "ing_109", "ing_68"],
+    "ingredient_quantities": {
+      "ing_185": "160g",
+      "ing_109": "200g",
+      "ing_68": "100g"
+    },
+    "calories": 570,
+    "proteins": 33,
+    "carbs": 37,
+    "fats": 22,
+    "fibres": 14,
+    "method": "Stir fry paneer slices with okra and tomato until cooked through."
+  },
+  {
+    "recipe_id": "r_091",
+    "recipe_name": "Grilled Chicken with Cluster Beans and Tomato",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_225", "ing_100", "ing_68"],
+    "ingredient_quantities": {
+      "ing_225": "180g",
+      "ing_100": "180g",
+      "ing_68": "100g"
+    },
+    "calories": 540,
+    "proteins": 42,
+    "carbs": 35,
+    "fats": 18,
+    "fibres": 13,
+    "method": "Grill chicken breast and serve with sautéed cluster beans and tomato."
+  },
+  {
+    "recipe_id": "r_092",
+    "recipe_name": "Paneer with Pumpkin and Spinach Curry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_144", "ing_102", "ing_56"],
+    "ingredient_quantities": {
+      "ing_144": "160g",
+      "ing_102": "200g",
+      "ing_56": "150g"
+    },
+    "calories": 585,
+    "proteins": 32,
+    "carbs": 39,
+    "fats": 23,
+    "fibres": 14,
+    "method": "Simmer paneer with pumpkin and spinach in a light curry."
+  },
+  {
+    "recipe_id": "r_093",
+    "recipe_name": "Rohu Fish with Ridge Gourd and Onion",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_232", "ing_73", "ing_69"],
+    "ingredient_quantities": {
+      "ing_232": "180g",
+      "ing_73": "200g",
+      "ing_69": "90g"
+    },
+    "calories": 470,
+    "proteins": 38,
+    "carbs": 33,
+    "fats": 16,
+    "fibres": 12,
+    "method": "Cook fish gently with ridge gourd and onion until tender."
+  },
+  {
+    "recipe_id": "r_094",
+    "recipe_name": "Tofu with Broccoli and Carrot Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_43", "ing_63", "ing_64"],
+    "ingredient_quantities": {
+      "ing_43": "170g",
+      "ing_63": "180g",
+      "ing_64": "140g"
+    },
+    "calories": 465,
+    "proteins": 29,
+    "carbs": 37,
+    "fats": 17,
+    "fibres": 13,
+    "method": "Stir fry tofu with broccoli and carrot until just cooked."
+  },
+  {
+    "recipe_id": "r_095",
+    "recipe_name": "Chickpea and Spinach Dinner Masala",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_50", "ing_56", "ing_68"],
+    "ingredient_quantities": {
+      "ing_50": "160g cooked",
+      "ing_56": "160g",
+      "ing_68": "100g"
+    },
+    "calories": 445,
+    "proteins": 26,
+    "carbs": 48,
+    "fats": 15,
+    "fibres": 16,
+    "method": "Simmer chickpeas with tomato and fold in spinach before serving."
+  },
+  {
+    "recipe_id": "r_096",
+    "recipe_name": "Grilled Turkey with Red Cabbage and Capsicum",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_131", "ing_148", "ing_70"],
+    "ingredient_quantities": {
+      "ing_131": "180g",
+      "ing_148": "170g",
+      "ing_70": "120g"
+    },
+    "calories": 545,
+    "proteins": 44,
+    "carbs": 34,
+    "fats": 18,
+    "fibres": 12,
+    "method": "Grill turkey and serve with sautéed red cabbage and capsicum."
+  },
+  {
+    "recipe_id": "r_097",
+    "recipe_name": "Soy Chunk with Bottle Gourd Curry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_44", "ing_72", "ing_69"],
+    "ingredient_quantities": {
+      "ing_44": "130g",
+      "ing_72": "220g",
+      "ing_69": "90g"
+    },
+    "calories": 500,
+    "proteins": 35,
+    "carbs": 41,
+    "fats": 16,
+    "fibres": 15,
+    "method": "Cook soy chunks with bottle gourd and onion in a light curry."
+  },
+  {
+    "recipe_id": "r_098",
+    "recipe_name": "Egg Bhurji with Capsicum and Cabbage",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_39", "ing_70", "ing_61"],
+    "ingredient_quantities": {
+      "ing_39": "3 eggs",
+      "ing_70": "130g",
+      "ing_61": "180g"
+    },
+    "calories": 490,
+    "proteins": 31,
+    "carbs": 34,
+    "fats": 21,
+    "fibres": 12,
+    "method": "Scramble eggs with capsicum and cabbage until well combined."
+  },
+  {
+    "recipe_id": "r_099",
+    "recipe_name": "Grilled Pomfret with Lettuce and Tomato",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_235", "ing_104", "ing_68"],
+    "ingredient_quantities": {
+      "ing_235": "180g",
+      "ing_104": "140g",
+      "ing_68": "100g"
+    },
+    "calories": 455,
+    "proteins": 40,
+    "carbs": 31,
+    "fats": 15,
+    "fibres": 11,
+    "method": "Grill pomfret and serve with fresh lettuce and tomato."
+  },
+  {
+    "recipe_id": "r_100",
+    "recipe_name": "Paneer with Zucchini and Mushroom Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_185", "ing_103", "ing_160"],
+    "ingredient_quantities": {
+      "ing_185": "160g",
+      "ing_103": "180g",
+      "ing_160": "160g"
+    },
+    "calories": 575,
+    "proteins": 33,
+    "carbs": 38,
+    "fats": 22,
+    "fibres": 14,
+    "method": "Stir fry paneer with zucchini and mushrooms until lightly browned."
+  },
+  {
+    "recipe_id": "r_101",
+    "recipe_name": "Grilled Chicken with Okra and Onion",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_225", "ing_109", "ing_69"],
+    "ingredient_quantities": {
+      "ing_225": "180g",
+      "ing_109": "200g",
+      "ing_69": "90g"
+    },
+    "calories": 535,
+    "proteins": 41,
+    "carbs": 34,
+    "fats": 18,
+    "fibres": 13,
+    "method": "Grill chicken breast and sauté okra with onion, then combine."
+  },
+  {
+    "recipe_id": "r_102",
+    "recipe_name": "Paneer with French Beans and Carrot",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_144", "ing_99", "ing_64"],
+    "ingredient_quantities": {
+      "ing_144": "160g",
+      "ing_99": "180g",
+      "ing_64": "140g"
+    },
+    "calories": 580,
+    "proteins": 32,
+    "carbs": 39,
+    "fats": 23,
+    "fibres": 14,
+    "method": "Stir fry paneer with french beans and carrot until tender."
+  },
+  {
+    "recipe_id": "r_103",
+    "recipe_name": "Catla Fish with Pumpkin and Tomato",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_233", "ing_102", "ing_68"],
+    "ingredient_quantities": {
+      "ing_233": "180g",
+      "ing_102": "200g",
+      "ing_68": "100g"
+    },
+    "calories": 465,
+    "proteins": 38,
+    "carbs": 33,
+    "fats": 16,
+    "fibres": 12,
+    "method": "Simmer catla fish gently with pumpkin and tomato."
+  },
+  {
+    "recipe_id": "r_104",
+    "recipe_name": "Tofu with Cabbage and Capsicum Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_43", "ing_61", "ing_70"],
+    "ingredient_quantities": {
+      "ing_43": "170g",
+      "ing_61": "200g",
+      "ing_70": "120g"
+    },
+    "calories": 460,
+    "proteins": 28,
+    "carbs": 36,
+    "fats": 17,
+    "fibres": 14,
+    "method": "Stir fry tofu with cabbage and capsicum until lightly cooked."
+  },
+  {
+    "recipe_id": "r_105",
+    "recipe_name": "Green Gram and Spinach Dinner Curry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_48", "ing_56", "ing_69"],
+    "ingredient_quantities": {
+      "ing_48": "160g cooked",
+      "ing_56": "160g",
+      "ing_69": "90g"
+    },
+    "calories": 440,
+    "proteins": 27,
+    "carbs": 47,
+    "fats": 15,
+    "fibres": 16,
+    "method": "Cook green gram with onion and finish with spinach."
+  },
+  {
+    "recipe_id": "r_106",
+    "recipe_name": "Grilled Turkey with Zucchini and Mushroom",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_131", "ing_103", "ing_160"],
+    "ingredient_quantities": {
+      "ing_131": "180g",
+      "ing_103": "180g",
+      "ing_160": "160g"
+    },
+    "calories": 545,
+    "proteins": 44,
+    "carbs": 34,
+    "fats": 18,
+    "fibres": 13,
+    "method": "Grill turkey and serve with sautéed zucchini and mushrooms."
+  },
+  {
+    "recipe_id": "r_107",
+    "recipe_name": "Soy Chunk with Ridge Gourd Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_44", "ing_73", "ing_110"],
+    "ingredient_quantities": {
+      "ing_44": "130g",
+      "ing_73": "220g",
+      "ing_110": "20g"
+    },
+    "calories": 495,
+    "proteins": 35,
+    "carbs": 40,
+    "fats": 16,
+    "fibres": 15,
+    "method": "Stir fry soy chunks with ridge gourd and green chilli."
+  },
+  {
+    "recipe_id": "r_108",
+    "recipe_name": "Egg Scramble with Broccoli and Onion",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_39", "ing_63", "ing_69"],
+    "ingredient_quantities": {
+      "ing_39": "3 eggs",
+      "ing_63": "180g",
+      "ing_69": "90g"
+    },
+    "calories": 485,
+    "proteins": 32,
+    "carbs": 33,
+    "fats": 21,
+    "fibres": 12,
+    "method": "Scramble eggs with broccoli and onion until just set."
+  },
+  {
+    "recipe_id": "r_109",
+    "recipe_name": "Grilled Surmai with Cucumber and Lettuce",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_236", "ing_105", "ing_104"],
+    "ingredient_quantities": {
+      "ing_236": "180g",
+      "ing_105": "160g",
+      "ing_104": "140g"
+    },
+    "calories": 460,
+    "proteins": 41,
+    "carbs": 30,
+    "fats": 15,
+    "fibres": 11,
+    "method": "Grill surmai fish and serve with cucumber and lettuce."
+  },
+  {
+    "recipe_id": "r_110",
+    "recipe_name": "Paneer with Bottle Gourd and Tomato",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_185", "ing_72", "ing_68"],
+    "ingredient_quantities": {
+      "ing_185": "160g",
+      "ing_72": "220g",
+      "ing_68": "100g"
+    },
+    "calories": 570,
+    "proteins": 32,
+    "carbs": 38,
+    "fats": 22,
+    "fibres": 14,
+    "method": "Cook paneer with bottle gourd and tomato in a light stir fry."
+  },
+  {
+    "recipe_id": "r_111",
+    "recipe_name": "Grilled Chicken with Broccoli and Red Pepper",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_225", "ing_63", "ing_188"],
+    "ingredient_quantities": {
+      "ing_225": "180g",
+      "ing_63": "180g",
+      "ing_188": "120g"
+    },
+    "calories": 545,
+    "proteins": 42,
+    "carbs": 35,
+    "fats": 18,
+    "fibres": 12,
+    "method": "Grill chicken breast and serve with sautéed broccoli and red pepper."
+  },
+  {
+    "recipe_id": "r_112",
+    "recipe_name": "Paneer with Bok Choy and Mushroom Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_144", "ing_150", "ing_161"],
+    "ingredient_quantities": {
+      "ing_144": "160g",
+      "ing_150": "180g",
+      "ing_161": "160g"
+    },
+    "calories": 575,
+    "proteins": 33,
+    "carbs": 38,
+    "fats": 22,
+    "fibres": 14,
+    "method": "Stir fry paneer with bok choy and oyster mushrooms until tender."
+  },
+  {
+    "recipe_id": "r_113",
+    "recipe_name": "Rohu Fish with Pumpkin and Spinach",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_232", "ing_102", "ing_56"],
+    "ingredient_quantities": {
+      "ing_232": "180g",
+      "ing_102": "200g",
+      "ing_56": "140g"
+    },
+    "calories": 470,
+    "proteins": 38,
+    "carbs": 34,
+    "fats": 16,
+    "fibres": 13,
+    "method": "Simmer rohu fish gently with pumpkin and finish with spinach."
+  },
+  {
+    "recipe_id": "r_114",
+    "recipe_name": "Tofu with Cluster Beans and Tomato",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_43", "ing_100", "ing_68"],
+    "ingredient_quantities": {
+      "ing_43": "170g",
+      "ing_100": "200g",
+      "ing_68": "100g"
+    },
+    "calories": 455,
+    "proteins": 28,
+    "carbs": 36,
+    "fats": 17,
+    "fibres": 14,
+    "method": "Stir fry tofu with cluster beans and tomato until just cooked."
+  },
+  {
+    "recipe_id": "r_115",
+    "recipe_name": "Black Eyed Peas and Cabbage Dinner Curry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_53", "ing_61", "ing_69"],
+    "ingredient_quantities": {
+      "ing_53": "160g cooked",
+      "ing_61": "200g",
+      "ing_69": "90g"
+    },
+    "calories": 450,
+    "proteins": 27,
+    "carbs": 48,
+    "fats": 15,
+    "fibres": 16,
+    "method": "Cook black eyed peas with cabbage and onion in a light curry."
+  },
+  {
+    "recipe_id": "r_116",
+    "recipe_name": "Grilled Turkey with Pumpkin and Carrot",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_131", "ing_102", "ing_64"],
+    "ingredient_quantities": {
+      "ing_131": "180g",
+      "ing_102": "180g",
+      "ing_64": "140g"
+    },
+    "calories": 550,
+    "proteins": 44,
+    "carbs": 36,
+    "fats": 18,
+    "fibres": 12,
+    "method": "Grill turkey and serve with sautéed pumpkin and carrot."
+  },
+  {
+    "recipe_id": "r_117",
+    "recipe_name": "Soy Chunk with Cauliflower and Capsicum",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_44", "ing_62", "ing_70"],
+    "ingredient_quantities": {
+      "ing_44": "130g",
+      "ing_62": "220g",
+      "ing_70": "120g"
+    },
+    "calories": 505,
+    "proteins": 36,
+    "carbs": 41,
+    "fats": 16,
+    "fibres": 15,
+    "method": "Stir fry soy chunks with cauliflower and capsicum."
+  },
+  {
+    "recipe_id": "r_118",
+    "recipe_name": "Egg Scramble with Zucchini and Spinach",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_39", "ing_103", "ing_56"],
+    "ingredient_quantities": {
+      "ing_39": "3 eggs",
+      "ing_103": "180g",
+      "ing_56": "150g"
+    },
+    "calories": 485,
+    "proteins": 32,
+    "carbs": 33,
+    "fats": 21,
+    "fibres": 12,
+    "method": "Scramble eggs with zucchini and spinach until just set."
+  },
+  {
+    "recipe_id": "r_119",
+    "recipe_name": "Grilled Tuna with Chinese Cabbage and Cucumber",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_237", "ing_149", "ing_105"],
+    "ingredient_quantities": {
+      "ing_237": "180g",
+      "ing_149": "180g",
+      "ing_105": "160g"
+    },
+    "calories": 460,
+    "proteins": 41,
+    "carbs": 31,
+    "fats": 15,
+    "fibres": 13,
+    "method": "Grill tuna and serve with sautéed Chinese cabbage and fresh cucumber."
+  },
+  {
+    "recipe_id": "r_120",
+    "recipe_name": "Paneer with Ridge Gourd and Tomato Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_185", "ing_73", "ing_68"],
+    "ingredient_quantities": {
+      "ing_185": "160g",
+      "ing_73": "220g",
+      "ing_68": "100g"
+    },
+    "calories": 570,
+    "proteins": 32,
+    "carbs": 38,
+    "fats": 22,
+    "fibres": 14,
+    "method": "Stir fry paneer with ridge gourd and tomato until cooked."
+  },
+  {
+    "recipe_id": "r_121",
+    "recipe_name": "Grilled Chicken with Amaranth Leaves and Carrot",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_225", "ing_58", "ing_64"],
+    "ingredient_quantities": {
+      "ing_225": "180g",
+      "ing_58": "160g",
+      "ing_64": "140g"
+    },
+    "calories": 540,
+    "proteins": 42,
+    "carbs": 35,
+    "fats": 18,
+    "fibres": 13,
+    "method": "Grill chicken breast and serve with sautéed amaranth leaves and carrot."
+  },
+  {
+    "recipe_id": "r_122",
+    "recipe_name": "Paneer with Mustard Greens Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_144", "ing_59", "ing_69"],
+    "ingredient_quantities": {
+      "ing_144": "160g",
+      "ing_59": "180g",
+      "ing_69": "90g"
+    },
+    "calories": 575,
+    "proteins": 32,
+    "carbs": 37,
+    "fats": 22,
+    "fibres": 14,
+    "method": "Stir fry paneer with mustard greens and onion until wilted."
+  },
+  {
+    "recipe_id": "r_123",
+    "recipe_name": "Hilsa Fish with Bottle Gourd Curry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_234", "ing_72", "ing_68"],
+    "ingredient_quantities": {
+      "ing_234": "170g",
+      "ing_72": "220g",
+      "ing_68": "100g"
+    },
+    "calories": 500,
+    "proteins": 36,
+    "carbs": 34,
+    "fats": 20,
+    "fibres": 12,
+    "method": "Gently cook hilsa fish with bottle gourd and tomato."
+  },
+  {
+    "recipe_id": "r_124",
+    "recipe_name": "Tofu with French Beans and Capsicum",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_43", "ing_99", "ing_70"],
+    "ingredient_quantities": {
+      "ing_43": "170g",
+      "ing_99": "200g",
+      "ing_70": "120g"
+    },
+    "calories": 455,
+    "proteins": 28,
+    "carbs": 36,
+    "fats": 17,
+    "fibres": 14,
+    "method": "Stir fry tofu with french beans and capsicum until tender."
+  },
+  {
+    "recipe_id": "r_125",
+    "recipe_name": "Horse Gram and Spinach Dinner Curry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_54", "ing_56", "ing_69"],
+    "ingredient_quantities": {
+      "ing_54": "160g cooked",
+      "ing_56": "160g",
+      "ing_69": "90g"
+    },
+    "calories": 445,
+    "proteins": 27,
+    "carbs": 47,
+    "fats": 15,
+    "fibres": 16,
+    "method": "Simmer horse gram with onion and finish with spinach."
+  },
+  {
+    "recipe_id": "r_126",
+    "recipe_name": "Grilled Turkey with Kohlrabi and Carrot",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_131", "ing_129", "ing_64"],
+    "ingredient_quantities": {
+      "ing_131": "180g",
+      "ing_129": "180g",
+      "ing_64": "140g"
+    },
+    "calories": 545,
+    "proteins": 44,
+    "carbs": 35,
+    "fats": 18,
+    "fibres": 12,
+    "method": "Grill turkey and serve with sautéed kohlrabi and carrot."
+  },
+  {
+    "recipe_id": "r_127",
+    "recipe_name": "Soy Chunk with Snake Gourd Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_44", "ing_74", "ing_110"],
+    "ingredient_quantities": {
+      "ing_44": "130g",
+      "ing_74": "220g",
+      "ing_110": "20g"
+    },
+    "calories": 495,
+    "proteins": 35,
+    "carbs": 40,
+    "fats": 16,
+    "fibres": 15,
+    "method": "Stir fry soy chunks with snake gourd and green chilli."
+  },
+  {
+    "recipe_id": "r_128",
+    "recipe_name": "Egg Scramble with Pumpkin and Spinach",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_39", "ing_102", "ing_56"],
+    "ingredient_quantities": {
+      "ing_39": "3 eggs",
+      "ing_102": "200g",
+      "ing_56": "150g"
+    },
+    "calories": 490,
+    "proteins": 31,
+    "carbs": 34,
+    "fats": 21,
+    "fibres": 12,
+    "method": "Scramble eggs with pumpkin and spinach until just cooked."
+  },
+  {
+    "recipe_id": "r_129",
+    "recipe_name": "Grilled Surmai with Bok Choy and Cucumber",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_236", "ing_150", "ing_105"],
+    "ingredient_quantities": {
+      "ing_236": "180g",
+      "ing_150": "180g",
+      "ing_105": "160g"
+    },
+    "calories": 465,
+    "proteins": 41,
+    "carbs": 31,
+    "fats": 15,
+    "fibres": 13,
+    "method": "Grill surmai fish and serve with bok choy and cucumber."
+  },
+  {
+    "recipe_id": "r_130",
+    "recipe_name": "Paneer with Ash Gourd and Tomato",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_185", "ing_75", "ing_68"],
+    "ingredient_quantities": {
+      "ing_185": "160g",
+      "ing_75": "220g",
+      "ing_68": "100g"
+    },
+    "calories": 565,
+    "proteins": 32,
+    "carbs": 37,
+    "fats": 22,
+    "fibres": 14,
+    "method": "Stir fry paneer with ash gourd and tomato until tender."
+  },
+  {
+    "recipe_id": "r_131",
+    "recipe_name": "Grilled Chicken with Radish and Cabbage",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_225", "ing_66", "ing_61"],
+    "ingredient_quantities": {
+      "ing_225": "180g",
+      "ing_66": "160g",
+      "ing_61": "180g"
+    },
+    "calories": 535,
+    "proteins": 41,
+    "carbs": 34,
+    "fats": 18,
+    "fibres": 13,
+    "method": "Grill chicken and serve with sautéed radish and cabbage."
+  },
+  {
+    "recipe_id": "r_132",
+    "recipe_name": "Paneer with Turnip Greens Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_144", "ing_172", "ing_69"],
+    "ingredient_quantities": {
+      "ing_144": "160g",
+      "ing_172": "180g",
+      "ing_69": "90g"
+    },
+    "calories": 570,
+    "proteins": 32,
+    "carbs": 37,
+    "fats": 22,
+    "fibres": 14,
+    "method": "Stir fry paneer with turnip greens and onion."
+  },
+  {
+    "recipe_id": "r_133",
+    "recipe_name": "Pomfret with Drumstick Leaves Curry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_235", "ing_60", "ing_68"],
+    "ingredient_quantities": {
+      "ing_235": "180g",
+      "ing_60": "160g",
+      "ing_68": "100g"
+    },
+    "calories": 470,
+    "proteins": 39,
+    "carbs": 32,
+    "fats": 16,
+    "fibres": 12,
+    "method": "Cook pomfret gently with drumstick leaves and tomato."
+  },
+  {
+    "recipe_id": "r_134",
+    "recipe_name": "Tofu with Red Cabbage and Sweet Pepper",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_43", "ing_148", "ing_187"],
+    "ingredient_quantities": {
+      "ing_43": "170g",
+      "ing_148": "180g",
+      "ing_187": "120g"
+    },
+    "calories": 460,
+    "proteins": 28,
+    "carbs": 36,
+    "fats": 17,
+    "fibres": 14,
+    "method": "Stir fry tofu with red cabbage and sweet pepper."
+  },
+  {
+    "recipe_id": "r_135",
+    "recipe_name": "White Peas and Pumpkin Dinner Curry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_52", "ing_102", "ing_69"],
+    "ingredient_quantities": {
+      "ing_52": "160g cooked",
+      "ing_102": "200g",
+      "ing_69": "90g"
+    },
+    "calories": 445,
+    "proteins": 26,
+    "carbs": 48,
+    "fats": 15,
+    "fibres": 16,
+    "method": "Simmer white peas with pumpkin and onion."
+  },
+  {
+    "recipe_id": "r_136",
+    "recipe_name": "Grilled Turkey with Parsnip and Broccoli",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_131", "ing_130", "ing_63"],
+    "ingredient_quantities": {
+      "ing_131": "180g",
+      "ing_130": "160g",
+      "ing_63": "180g"
+    },
+    "calories": 550,
+    "proteins": 44,
+    "carbs": 36,
+    "fats": 18,
+    "fibres": 12,
+    "method": "Grill turkey and serve with roasted parsnip and broccoli."
+  },
+  {
+    "recipe_id": "r_137",
+    "recipe_name": "Soy Chunk with Ash Gourd Stir Fry",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_44", "ing_75", "ing_110"],
+    "ingredient_quantities": {
+      "ing_44": "130g",
+      "ing_75": "220g",
+      "ing_110": "20g"
+    },
+    "calories": 495,
+    "proteins": 35,
+    "carbs": 40,
+    "fats": 16,
+    "fibres": 15,
+    "method": "Stir fry soy chunks with ash gourd and green chilli."
+  },
+  {
+    "recipe_id": "r_138",
+    "recipe_name": "Egg Scramble with Cabbage and Carrot",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_39", "ing_61", "ing_64"],
+    "ingredient_quantities": {
+      "ing_39": "3 eggs",
+      "ing_61": "180g",
+      "ing_64": "140g"
+    },
+    "calories": 485,
+    "proteins": 31,
+    "carbs": 33,
+    "fats": 21,
+    "fibres": 12,
+    "method": "Scramble eggs with cabbage and carrot until just set."
+  },
+  {
+    "recipe_id": "r_139",
+    "recipe_name": "Grilled Tuna with Celery and Lettuce",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_237", "ing_106", "ing_104"],
+    "ingredient_quantities": {
+      "ing_237": "180g",
+      "ing_106": "140g",
+      "ing_104": "140g"
+    },
+    "calories": 455,
+    "proteins": 41,
+    "carbs": 30,
+    "fats": 15,
+    "fibres": 12,
+    "method": "Grill tuna and serve with celery and lettuce."
+  },
+  {
+    "recipe_id": "r_140",
+    "recipe_name": "Paneer with Bamboo Shoots and Capsicum",
+    "meal_type": "dinner",
+    "ingredient_ids": ["ing_185", "ing_128", "ing_70"],
+    "ingredient_quantities": {
+      "ing_185": "160g",
+      "ing_128": "180g",
+      "ing_70": "120g"
+    },
+    "calories": 565,
+    "proteins": 32,
+    "carbs": 37,
+    "fats": 22,
+    "fibres": 14,
+    "method": "Stir fry paneer with bamboo shoots and capsicum until tender."
+  }
+
+]
